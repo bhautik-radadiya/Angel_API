@@ -1,0 +1,11 @@
+# Object files
+*.o
+*.obj
+
+# Binary files
+*.exe
+*.out
+*.bin
+*.dll
+*.so
+*.a
