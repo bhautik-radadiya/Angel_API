@@ -9,3 +9,6 @@
 *.dll
 *.so
 *.a
+
+#ignore include file of Rest apps
+/Rest_app/include/
